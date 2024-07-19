@@ -13,13 +13,15 @@ export default function Narbar() {
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a
                                 href="/">หลักสูตรรัฐประศาสนศาสตร์</a></li>
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/">หน้าหลัก
-                </a></li>
+                            </a></li>
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/about">เกี่ยวกับ
-                        </a></li>
+                            </a></li>
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/ai">AI ตรวจวินิจฉัยโรค
-                                </a></li>
+                            </a></li>
+                            <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/evalution">การประเมินนโยบาสาธารณะ
+                            </a></li>
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="#">ChatGPT
-                                </a></li>
+                            </a></li>
                             {/* <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a
                                 href="#">ทีมงาน</a></li> */}
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a
