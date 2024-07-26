@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Kanit } from "next/font/google";
-import Narbar from "../components/Narbar";
+import Narbar from "../components/Navbar";
 import "./globals.css";
 import Footer from "../components/Footer";
 

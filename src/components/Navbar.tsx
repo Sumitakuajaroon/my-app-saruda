@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Narbar() {
+export default function Navbar() {
     return (
         <div>
             <div className="flex justify-center ">
@@ -18,7 +18,7 @@ export default function Narbar() {
                             </a></li>
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/ai">AI ตรวจวินิจฉัยโรค
                             </a></li>
-                            <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/evalution">การประเมินนโยบาสาธารณะ
+                            <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="/evaluation">การประเมินนโยบาสาธารณะ
                             </a></li>
                             <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1"><a href="#">ChatGPT
                             </a></li>
